@@ -1,201 +1,204 @@
 nom,note,prix,categories,adresse,latitude,longitude
 Le Comptoir de la Gastronomie,4.5,€€,French,34 rue Montmartre 75001 Paris France,48.8645157999652,2.34540185646608
 Bistro des Augustins,4.4,€€,"Bistros, Wine Bars",39 quai des Grands Augustins 75006 Paris France,48.854754,2.342119
-Brasserie Bellanger,4.8,N/A,French,140 rue du Faubourg Poissonnière 75010 Paris France,48.88094,2.34994
+Brasserie Bellanger,4.8,,French,140 rue du Faubourg Poissonnière 75010 Paris France,48.88094,2.34994
 Le P'tit Bistro,4.6,€€,"Brasseries, Bars",8 rue Saint-Martin 75004 Paris France,48.85755,2.34938
-Le Corner Saint Germain,4.7,N/A,French,92 boulevard Saint-Germain 75005 Paris France,48.85126,2.34432
+Le Corner Saint Germain,4.7,,French,92 boulevard Saint-Germain 75005 Paris France,48.85126,2.34432
 Angelina,4.0,€€€,"Breakfast & Brunch, Tea Rooms, Patisserie/Cake Shop",226 rue de Rivoli 75001 Paris France,48.865092,2.328464
 La Jacobine,4.5,€€€,"Tea Rooms, French",59-61 rue Saint-André des Arts 75006 Paris France,48.8532345157095,2.33900494873524
-Au Bourguignon du Marais,4.3,€€€,French,52 rue François Miron 75004 Paris France,48.8555191281373,2.3577103595245
-L'Escargot,3.9,€€€,French,38 rue Montorgueil 75001 Paris France,48.864206,2.3467
 Chez Fernand,4.4,€€€,French,9 rue Christine 75006 Paris France,48.85461,2.33954
-Marcelle,5.0,N/A,French,9 rue Antoine Vollon 75012 Paris France,48.864111,2.345627
-Sacré Frenchy !,4.5,N/A,"French, Bars",58 boulevard de Sebastopol 75003 Paris France,48.86319,2.35106
+Au Bourguignon du Marais,4.3,€€€,French,52 rue François Miron 75004 Paris France,48.8555191281373,2.3577103595245
+Marcelle,5.0,,French,9 rue Antoine Vollon 75012 Paris France,48.864111,2.345627
+Sacré Frenchy !,4.5,,"French, Bars",58 boulevard de Sebastopol 75003 Paris France,48.86319,2.35106
+L'Escargot,3.9,€€€,French,38 rue Montorgueil 75001 Paris France,48.864206,2.3467
 L'Avant Comptoir,4.4,€€,"Tapas Bars, Wine Bars",3 carrefour de l'Odéon 75006 Paris France,48.85202,2.3388
 Le Relais de l'Entrecôte,4.1,€€€,Steakhouses,20 rue Saint Benoît 75006 Paris France,48.85469,2.3329
 Le Bistrot des Vosges,4.3,€€,Bistros,31 bd Beaumarchais 75004 Paris France,48.8557424,2.368231
-Café Blanc,4.4,N/A,"French, Coffee & Tea, Breakfast & Brunch",10 rue Croix des Petits Champs 75001 Paris France,48.8627362423863,2.339585
 Poulette,4.4,€€€,French,3 Rue Etienne Marcel 75001 Paris France,48.8634,2.35068
+Café Blanc,4.4,,"French, Coffee & Tea, Breakfast & Brunch",10 rue Croix des Petits Champs 75001 Paris France,48.8627362423863,2.339585
 Chez Margot,4.3,€€,French,25 bis bd Henri IV 75004 Paris France,48.85192,2.3645
 La Fontaine de Mars,4.3,€€€,French,129 rue Saint-Dominique 75007 Paris France,48.858394,2.302568
+La Coïncidence,4.5,€€,French,15 rue Mesnil 75116 Paris France,48.868105,2.284365
 Bouillon Chartier,3.4,€€,French,7 rue du Faubourg Montmartre 75009 Paris France,48.87194,2.34317
 Le Vaudésir,4.8,€,Bistros,41 rue Dareau 75014 Paris France,48.83035,2.33548
-La Coïncidence,4.5,€€,French,15 rue Mesnil 75116 Paris France,48.868105,2.284365
 Chez Mademoiselle,4.5,€€€,French,16 rue Charlemagne 75004 Paris France,48.85432,2.35979
-L'Olivier du Marais,4.8,N/A,French,16 place des Vosges 75004 Paris France,48.85553,2.36657
+L'Olivier du Marais,4.8,,French,16 place des Vosges 75004 Paris France,48.85553,2.36657
 Les Antiquaires,4.4,€€€,Bistros,13 rue du Bac 75007 Paris France,48.8580664639432,2.32823697067099
-La Régalade,4.5,€€€,French,106 rue Saint-Honoré 75001 Paris France,48.8616441182389,2.34201570904084
+Le Soufflé,4.3,€€€,French,36 rue du Mont Thabor 75001 Paris France,48.86645,2.32647
 Le Comptoir,4.4,€€,"Bistros, Cafes",18 avenue René Coty 75014 Paris France,48.8295898,2.33391
-Grenouilles,4.8,€,"Sandwiches, Delicatessen",55 rue du Chevalier de la Barre 75018 Paris France,48.8871061857917,2.34178242552619
-Frenchie,4.3,€€€€,"French, Modern European",5 rue du Nil 75002 Paris France,48.867754322367,2.3477420774331
+La Régalade,4.5,€€€,French,106 rue Saint-Honoré 75001 Paris France,48.8616441182389,2.34201570904084
 Big Mamma,4.5,€,Pizza,111 Rue Réaumur 75002 Paris France,48.86813,2.34329
+Frenchie,4.3,€€€€,"French, Modern European",5 rue du Nil 75002 Paris France,48.867754322367,2.3477420774331
 La Cordonnerie,4.7,€€€,French,20 rue Saint Roch 75001 Paris France,48.86543,2.33237
 Le Bistro du Périgord,4.5,€€€,Bistros,71 rue Saint-Jacques 75005 Paris France,48.8498092201519,2.34515282327701
 LouLou,3.7,€€€,Italian,107 rue de Rivoli 75001 Paris France,48.86322,2.3333
 Le Café,4.3,€€,Cafes,62 rue Tiquetonne 75002 Paris France,48.86483,2.34588
 Le Bistro Lyonnais,4.5,€€,French,6 rue Michel Chasles 75012 Paris France,48.84698,2.37383
+Grenouilles,4.8,€,"Sandwiches, Delicatessen",55 rue du Chevalier de la Barre 75018 Paris France,48.8871061857917,2.34178242552619
 万食如意 Fresh Noodles,4.4,€€,"Chinese, Pan Asian",23 rue Saint-Denis 75001 Paris France,48.859595,2.347833
-L'As du Fallafel,4.3,€€,"Kosher, Sandwiches, Falafel",34 rue des Rosiers 75004 Paris France,48.857498,2.35908
 Café de la Régence,4.1,€€,French,167 rue Saint-Honoré 75001 Paris France,48.863613,2.334516
-Le Soufflé,4.3,€€€,French,36 rue du Mont Thabor 75001 Paris France,48.86645,2.32647
 Les Petites Bouchées,4.5,€€,"Tapas Bars, Gastropubs",4 rue du Roi de Sicile 75004 Paris France,48.855682,2.360767
+Langousta,4.9,€€,Seafood,20 rue Singer 75016 Paris France,48.856266,2.278149
 Le Bon Georges,4.3,€€€,Bistros,45 rue Saint-Georges 75009 Paris France,48.877657,2.337197
 Le Potager du Père Thierry,4.6,€€,French,16 rue des Trois Frères 75018 Paris France,48.884476,2.341335
-Langousta,4.9,€€,Seafood,20 rue Singer 75016 Paris France,48.856266,2.278149
 Le Petit Lux,4.7,€€,Bistros,29 rue de Vaugirard 75006 Paris France,48.84822,2.33121
 Chez Georges,3.8,€€€,French,1 rue du Mail 75002 Paris France,48.8666718,2.341457
 Sanukiya,4.5,€€,Japanese,9 rue d'Argenteuil 75001 Paris France,48.8647,2.3338199
 Victoires,4.0,€€,French,6 rue la Vrillière 75001 Paris France,48.865569,2.340286
-Brasserie Dubillot,4.4,N/A,"Brasseries, French",222 Rue Saint-Denis 75002 Paris France,48.86809,2.35193
-Loulou,3.9,€€,"Gluten-Free, Breakfast & Brunch, Beer Bar",90 boulevard Saint-Germain 75005 Paris France,48.851192,2.344806
 L'Epicure,4.6,€€€€,"French, Breakfast & Brunch",112 rue du Faubourg Saint-Honoré 75008 Paris France,48.871697,2.314657
+Loulou,3.9,€€,"Gluten-Free, Breakfast & Brunch, Beer Bar",90 boulevard Saint-Germain 75005 Paris France,48.851192,2.344806
 Chez Janou,4.1,€€,"Bistros, Provencal",2 rue Roger Verlomme 75003 Paris France,48.8566952430158,2.36717752386277
 Freddy's,4.6,€€€,"Tapas Bars, French, Steakhouses",54 rue de Seine 75006 Paris France,48.85424,2.33685
+Brasserie Dubillot,4.4,,"Brasseries, French",222 Rue Saint-Denis 75002 Paris France,48.86809,2.35193
+Restaurant de la Tour,4.8,€€€,French,6 Rue Desaix 75015 Paris France,48.85439,2.29505
+Gambino,4.4,€€,Italian,6 rue Gomboust 75001 Paris France,48.86736,2.33298
+Les Papilles,4.5,€€€,"Wine Bars, Bistros",30 rue Gay-Lussac 75005 Paris France,48.84461,2.34174
 Le Valois,4.3,€€€,"French, Cafes, Brasseries",1 place Rio de Janeiro 75008 Paris France,48.8775413677239,2.3102497908318
 Le Bougnat,4.7,€€,French,28 rue de Saintonge 75003 Paris France,48.86227,2.36316
 Balagan,4.4,€€,"Middle Eastern, Cocktail Bars",9 rue d'Alger 75001 Paris France,48.86543,2.32979
-Happy Caffé,4.9,€,"Creperies, Sandwiches",214 rue de Rivoli 75001 Paris France,48.86476,2.329615
-Les Artizans,4.6,€€,"Patisserie/Cake Shop, Bistros",30 rue de Montorgueil 75001 Paris France,48.863763,2.346643
-L'Oratoire,4.6,N/A,"Brasseries, Bars",143 rue Saint-Honoré 75001 Paris France,48.8618043,2.3406102
-Restaurant de la Tour,4.8,€€€,French,6 Rue Desaix 75015 Paris France,48.85439,2.29505
 Le Petit Marché,4.3,€€€,French,9 rue Béarn 75003 Paris France,48.857267,2.366041
-Gambino,4.4,€€,Italian,6 rue Gomboust 75001 Paris France,48.86736,2.33298
-The Frog & Underground,4.5,€€,"Pubs, American, Brasseries",176 rue Montmartre 75002 Paris France,48.871088,2.343115
+Les Artizans,4.6,€€,"Patisserie/Cake Shop, Bistros",30 rue de Montorgueil 75001 Paris France,48.863763,2.346643
+L'Oratoire,4.6,,"Brasseries, Bars",143 rue Saint-Honoré 75001 Paris France,48.8618043,2.3406102
+Happy Caffé,4.9,€,"Creperies, Sandwiches",214 rue de Rivoli 75001 Paris France,48.86476,2.329615
 Il Gigolo,4.4,€€,Italian,11 rue de la Huchette 75005 Paris France,48.8529369,2.3460259
-Les Papilles,4.5,€€€,"Wine Bars, Bistros",30 rue Gay-Lussac 75005 Paris France,48.84461,2.34174
-Le Coq & Fils - The Poultry House,4.4,€€€€,Rotisserie Chicken,98 Rue Lepic 75018 Paris France,48.887261205041,2.3370014478986
-Les Philosophes,3.9,€€,Bistros,28 rue Vieille du Temple 75004 Paris France,48.857332,2.357493
-L'îlot,4.4,€€,Seafood,4 rue de la Corderie 75003 Paris France,48.8647842407227,2.36330199241638
-Le Royal,3.9,€€,Bistros,212 rue de Grenelle 75007 Paris France,48.856533,2.302903
 Au Bon Coin,4.6,€€,Bistros,21 rue de la Collégiale 75005 Paris France,48.83813,2.35184
-Khajuraho,4.8,N/A,Indian,14 bd de la Tour Maubourg 75007 Paris France,48.861542,2.310126
+The Frog & Underground,4.5,€€,"Pubs, American, Brasseries",176 rue Montmartre 75002 Paris France,48.871088,2.343115
+Les Philosophes,3.9,€€,Bistros,28 rue Vieille du Temple 75004 Paris France,48.857332,2.357493
+20 Eiffel,4.5,,French,20 rue de Monttessuy 75007 Paris France,48.85948,2.29853
+Le Royal,3.9,€€,Bistros,212 rue de Grenelle 75007 Paris France,48.856533,2.302903
+L'As du Fallafel,4.3,€€,"Kosher, Sandwiches, Falafel",34 rue des Rosiers 75004 Paris France,48.857498,2.35908
+L'îlot,4.4,€€,Seafood,4 rue de la Corderie 75003 Paris France,48.8647842407227,2.36330199241638
+Khajuraho,4.8,,Indian,14 bd de la Tour Maubourg 75007 Paris France,48.861542,2.310126
 Le Relais de l’Entrecôte,4.0,€€€,Steakhouses,15 rue Marbeuf 75008 Paris France,48.86808,2.30295
-20 Eiffel,4.5,N/A,French,20 rue de Monttessuy 75007 Paris France,48.85948,2.29853
+Le Colimaçon,4.4,€€€,"French, Bistros, Steakhouses",44 rue Vieille du Temple 75004 Paris France,48.8580235883243,2.35806396197131
+Gemini,4.3,€€,Italian,16 rue des Halles 75001 Paris France,48.8593674647599,2.34705866389581
 Le Relais du Louvre,4.1,€€,French,3 rue Saint-Honoré 75001 Paris France,48.861651,2.34094
 Istanbul,4.8,€,"Donairs, Turkish, Greek",1 rue des Fossés Saint-Jacques 75005 Paris France,48.84608,2.34326
 Express de Lyon,4.3,€€,"Sports Bars, Brasseries, Bistros",1 rue Lyon 75012 Paris France,48.8458754234665,2.37198472387308
-Le Colimaçon,4.4,€€€,"French, Bistros, Steakhouses",44 rue Vieille du Temple 75004 Paris France,48.8580235883243,2.35806396197131
-Gemini,4.3,€€,Italian,16 rue des Halles 75001 Paris France,48.8593674647599,2.34705866389581
+Chez Gabrielle,4.7,€€€,French,7 rue de l'Etoile 75017 Paris France,48.87669,2.29619
 La French Guinguette,4.3,€€,"Cocktail Bars, French",58 rue Rambuteau 75004 Paris France,48.8617418954553,2.35155543990315
+Le Cinq,4.7,€€€€,French,31 avenue George V 75008 Paris France,48.8688,2.30083
 L'Entente,4.5,€€,"British, Modern European",13 rue Monsigny 75002 Paris France,48.869145,2.335391
 Café de Mars,4.6,€€,"French, Mediterranean, Asian Fusion",11 rue Augereau 75007 Paris France,48.85731,2.30205
-Le Cinq,4.7,€€€€,French,31 avenue George V 75008 Paris France,48.8688,2.30083
-La Pie Noir,4.6,N/A,French,5 rue de la Montagne Sainte Geneviève 75005 Paris France,48.84929,2.34888
-Chez Gabrielle,4.7,€€€,French,7 rue de l'Etoile 75017 Paris France,48.87669,2.29619
-L'Aller Retour,4.3,€€€,"Wine Bars, Steakhouses",5 rue Charles François Dupuis 75003 Paris France,48.865353,2.363151
-Tire Bouchon,4.4,N/A,Restaurants,47 rue Descartes 75005 Paris France,48.84522,2.34919
-Chez le Libanais,4.5,€,Lebanese,35 et 36 rue Saint-André-des-Arts 75006 Paris France,48.85331,2.34166
+Le Coq & Fils - The Poultry House,4.4,€€€€,Rotisserie Chicken,98 Rue Lepic 75018 Paris France,48.887261205041,2.3370014478986
+La Pie Noir,4.6,,French,5 rue de la Montagne Sainte Geneviève 75005 Paris France,48.84929,2.34888
+Tire Bouchon,4.4,,Restaurants,47 rue Descartes 75005 Paris France,48.84522,2.34919
 Pain Vin Fromages,4.4,€€,Fondue,3 rue Geoffroy-l'Angevin 75004 Paris France,48.860525,2.354439
 Le Bouledogue,4.0,€€,"French, Bars, Brasseries",20 Rue Rambuteau 75003 Paris France,48.86082,2.3547
+L'Aller Retour,4.3,€€€,"Wine Bars, Steakhouses",5 rue Charles François Dupuis 75003 Paris France,48.865353,2.363151
+Chez le Libanais,4.5,€,Lebanese,35 et 36 rue Saint-André-des-Arts 75006 Paris France,48.85331,2.34166
 Le Black Dog,4.2,€€,"Bars, Argentine",26 rue des Lombards 75004 Paris France,48.85943,2.34918
-Le Bistro V,5.0,N/A,"Bistros, French",56 bd de Port-Royal 75005 Paris France,48.83768,2.34622
-Le Prince Racine,4.5,N/A,"Cafes, Brasseries, French",22 rue Monsieur le Prince 75006 Paris France,48.849857,2.339913
+Le Bistro V,5.0,,"Bistros, French",56 bd de Port-Royal 75005 Paris France,48.83768,2.34622
+Le Prince Racine,4.5,,"Cafes, Brasseries, French",22 rue Monsieur le Prince 75006 Paris France,48.849857,2.339913
 Café Louise,4.0,€€,"Cafes, Brasseries",155 bd Saint Germain 75006 Paris France,48.853878376742,2.3321086257314
-Au Bougnat,4.2,€€€,French,26 rue Chanoinesse 75004 Paris France,48.8543,2.35002
-Le Pré,4.5,N/A,"Cocktail Bars, Beer Bar, Cafes",4 rue du Four 75006 Paris France,48.85301,2.33514
-Odette,4.6,N/A,"French, Wine Bars, Breakfast & Brunch",25 rue du Pont Neuf 75001 Paris France,48.86061,2.34452
-Frame,3.0,€€€,"Bars, American, French",28 rue Jean Rey 75015 Paris France,48.85679,2.293021
 Le Bistrot de Paris,4.4,€€€,"French, Bistros, Brasseries",33 rue de Lille 75007 Paris France,48.85854,2.32946
-Shabestan,4.6,N/A,Persian/Iranian,5 rue du Commandant Rivière 75008 Paris France,48.8727,2.30932
-Le Brun,4.8,N/A,French,95 rue Saint Honoré 75001 Paris France,48.86128,2.3432
-Bouillon Pigalle,3.6,€€,French,22 boulevard Clichy 75018 Paris France,48.88258,2.33744
-La Poule au Pot,4.2,€€€,French,9 rue Vauvilliers 75001 Paris France,48.861797,2.343306
 Au Bon Accueil,4.5,€€€,French,14 rue Monttessuy 75007 Paris France,48.8596099,2.2993434
-L'Insolite,5.0,N/A,Brasseries,86 avenue de Villiers 75017 Paris France,48.8845,2.302087
-Au Petit Village,4.9,N/A,French,06 rue Coypel 75013 Paris France,48.8332625215691,2.35616696743751
-Canard Street,4.4,€€,"French Southwest, Delicatessen",16 rue des Petits Champs 75002 Paris France,48.86674,2.33716
+Le Pré,4.5,,"Cocktail Bars, Beer Bar, Cafes",4 rue du Four 75006 Paris France,48.85301,2.33514
+Au Bougnat,4.2,€€€,French,26 rue Chanoinesse 75004 Paris France,48.8543,2.35002
+Frame,3.0,€€€,"Bars, American, French",28 rue Jean Rey 75015 Paris France,48.85679,2.293021
+Shabestan,4.6,,Persian/Iranian,5 rue du Commandant Rivière 75008 Paris France,48.8727,2.30932
+Odette,4.6,,"French, Wine Bars, Breakfast & Brunch",25 rue du Pont Neuf 75001 Paris France,48.86061,2.34452
 Ober Mamma,4.3,€€,"Pizza, Italian, Cocktail Bars",107 boulevard Richard Lenoir 75011 Paris France,48.86446,2.37018
+Restaurant le Meurice Alain Ducasse,4.2,€€€€,French,228 rue de Rivoli 75001 Paris France,48.86516,2.32807
+Au Petit Village,4.9,,French,06 rue Coypel 75013 Paris France,48.8332625215691,2.35616696743751
+L'Insolite,5.0,,Brasseries,86 avenue de Villiers 75017 Paris France,48.8845,2.302087
+Canard Street,4.4,€€,"French Southwest, Delicatessen",16 rue des Petits Champs 75002 Paris France,48.86674,2.33716
 Au Vieux Comptoir,4.1,€€€,French,17 rue des Lavandières-Sainte-Opportune 75001 Paris France,48.8588,2.34602
-L'Auberge des Deux Ponts,4.3,€€,French,7 rue des Deux Ponts 75004 Paris France,48.85145,2.3561
-Café Madame,4.5,N/A,"Breakfast & Brunch, Cafes",25 Rue de Vaugirard 75006 Paris France,48.8483521138708,2.33179995352665
+Le Cabanon de la Butte,4.7,,French,6 rue Lamarck 75018 Paris France,48.8866299,2.34436
+Café Madame,4.5,,"Breakfast & Brunch, Cafes",25 Rue de Vaugirard 75006 Paris France,48.8483521138708,2.33179995352665
+La Cuisine de Philippe,4.6,€€€,French,25 rue Servandoni 75006 Paris France,48.8491,2.33483
 La Vie d'Ange,4.6,€€€,"French, Wine Bars",41 bd Saint-Jacques 75014 Paris France,48.83257,2.33781
 Le Mazenay,4.5,€€,Bourguignon,46 rue de Montmorency 75003 Paris France,48.8636068791682,2.35325365211382
-Café Latin,4.4,N/A,Brasseries,30 rue Saint André des Arts 75006 Paris France,48.853617,2.342281
-Le Cabanon de la Butte,4.7,N/A,French,6 rue Lamarck 75018 Paris France,48.8866299,2.34436
-Restaurant le Meurice Alain Ducasse,4.2,€€€€,French,228 rue de Rivoli 75001 Paris France,48.86516,2.32807
+L'Auberge des Deux Ponts,4.3,€€,French,7 rue des Deux Ponts 75004 Paris France,48.85145,2.3561
+Café Latin,4.4,,Brasseries,30 rue Saint André des Arts 75006 Paris France,48.853617,2.342281
+Heureux Comme Alexandre,4.3,€€,Fondue,24 rue Parcheminerie 75005 Paris France,48.85178,2.34472
 Les Bougresses,4.6,€€€,French,6 rue Jarente 75004 Paris France,48.85601,2.363076
-La Cuisine de Philippe,4.6,€€€,French,25 rue Servandoni 75006 Paris France,48.8491,2.33483
-Chez André,3.6,€€€,French,12 rue Marbeuf 75008 Paris France,48.867812,2.302855
 Le Montaigne,4.8,€€€,"French, Brasseries",103 bd du Montparnasse 75006 Paris France,48.8423718050096,2.32900813254093
 La Petite,4.5,€,"Tapas/Small Plates, Beer Bar, Cocktail Bars",53 rue Lacépède 75005 Paris France,48.8442734612328,2.34994811217089
 Les Routiers,4.4,€€,"French, Bistros",50 bis rue Marx Dormoy 75018 Paris France,48.888886,2.360083
 Chez Papa Jazz Club,4.4,€€€,"Jazz & Blues, French",3 rue Saint-Benoît 75006 Paris France,48.8553886,2.3334401
+Chez André,3.6,€€€,French,12 rue Marbeuf 75008 Paris France,48.867812,2.302855
+Poupée,4.3,,"Wine Bars, Tapas Bars",2 impasse Berthaud 75003 Paris France,48.861343,2.353774
 La Petite Rose des Sables,4.7,€€,French,6 rue de Lancry 75010 Paris France,48.868943,2.360193
-Poupée,4.3,N/A,"Wine Bars, Tapas Bars",2 impasse Berthaud 75003 Paris France,48.861343,2.353774
-Les Bains - La Salle à Manger,5.0,€€€€,French,7 rue du Bourg l'Abbé 75003 Paris France,48.8639183,2.352
 Bistrot Richelieu,4.2,€€€,"French, Breakfast & Brunch",45 rue de Richelieu 75001 Paris France,48.866218,2.337011
-Le Jardin du Petit Palais,3.8,€€,"Coffee & Tea, Modern European",Avenue Winston Churchill 75008 Paris France,48.866049,2.31459
 L'Ange 20,4.7,€€€,French,44 rue des Tournelles 75004 Paris France,48.8558083,2.3673799
-Le Moulin de la Galette,3.9,€€€,French,83 rue Lepic 75018 Paris France,48.88734,2.33705
-Le Singe à Paris,4.6,N/A,French,40 rue Traversière 75012 Paris France,48.8489999,2.37471
-Ducasse sur Seine,3.8,N/A,French,Port Debilly Paris France,48.85948,2.29027
-L'Alsacien,4.7,€€,"Beer Bar, Wine Bars, Alsatian",6 rue Saint-Bon 75004 Paris France,48.8582259709568,2.35042658065285
+Les Bains - La Salle à Manger,5.0,€€€€,French,7 rue du Bourg l'Abbé 75003 Paris France,48.8639183,2.352
 La Boîte aux Lettres,4.8,€€€,French,108 rue Lepic 75018 Paris France,48.8868300540186,2.3381794989109
-Pavillon Ledoyen,4.2,€€€€,French,8 avenue Dutuit 75008 Paris France,48.8661071818398,2.31645151287496
-Jaïs,4.4,N/A,French,3 rue Surcouf 75007 Paris France,48.8621584988538,2.30933565115413
-Robert et Louise,4.1,€€€,"French, Steakhouses",64 rue Vieille du Temple 75003 Paris France,48.859081,2.359435
-Boulettes,4.6,€€,French,179 rue Saint-Denis 75002 Paris France,48.86557,2.35045
-L'Oliveto,4.5,N/A,Italian,38 rue de Buci 75012 Paris France,48.85339,2.33595
-L'Auberge Bressane,4.0,€€€,French,16 avenue de la Motte Picquet 75007 Paris France,48.8565635959637,2.30848165676116
-Pierre Sang,4.4,€€€,"French, Korean",55 rue Oberkampf 75011 Paris France,48.86461,2.37233
+Le Moulin de la Galette,3.9,€€€,French,83 rue Lepic 75018 Paris France,48.88734,2.33705
+L'Alsacien,4.7,€€,"Beer Bar, Wine Bars, Alsatian",6 rue Saint-Bon 75004 Paris France,48.8582259709568,2.35042658065285
+L'Oliveto,4.5,,Italian,38 rue de Buci 75012 Paris France,48.85339,2.33595
+Le Singe à Paris,4.6,,French,40 rue Traversière 75012 Paris France,48.8489999,2.37471
 Enza & Famiglia Trattoria Pasta,4.5,€€,Italian,89 rue Saint-Honoré 75001 Paris France,48.8609426,2.3433822
+Pavillon Ledoyen,4.2,€€€€,French,8 avenue Dutuit 75008 Paris France,48.8661071818398,2.31645151287496
+Ducasse sur Seine,3.8,,French,Port Debilly Paris France,48.85948,2.29027
+Jaïs,4.4,,French,3 rue Surcouf 75007 Paris France,48.8621584988538,2.30933565115413
+L'Auberge Bressane,4.0,€€€,French,16 avenue de la Motte Picquet 75007 Paris France,48.8565635959637,2.30848165676116
+Robert et Louise,4.1,€€€,"French, Steakhouses",64 rue Vieille du Temple 75003 Paris France,48.859081,2.359435
 Le Volant Basque,4.6,€€,Basque,13 rue Béatrix Dussane 75015 Paris France,48.8499,2.29127
-La Cave à Vin,4.4,€€,"French, Beer, Wine & Spirits",7 rue de l'Epée de Bois 75005 Paris France,48.84158,2.35095
-Lion Sot,4.7,N/A,French,6 avenue René Coty 75014 Paris France,48.8329024303849,2.33268231153488
+Lion Sot,4.7,,French,6 avenue René Coty 75014 Paris France,48.8329024303849,2.33268231153488
+Pierre Sang,4.4,€€€,"French, Korean",55 rue Oberkampf 75011 Paris France,48.86461,2.37233
 Le Coupe Gorge,4.7,€€€,French,2 rue de la Coutellerie 75004 Paris France,48.8574513,2.350399
-L'Auberge Café,4.1,€€,French,4 rue Bertin Poirée 75001 Paris France,48.85833,2.3446
-Café de Paris,3.9,€€,Brasseries,3 rue de l'Échelle 75001 Paris France,48.863662,2.33385
-Carpe Diem Café,4.2,€€,"French, Lounges, Cocktail Bars",21 rue des Halles 75001 Paris France,48.8605269,2.3459065
-Le Petit Caillou,4.2,€€,Bistros,210 rue de Grenelle 75007 Paris France,48.85665,2.30323
 Ma Salle à Manger,4.0,€€,French Southwest,26 place Dauphine 75001 Paris France,48.856961,2.341829
-La Droguerie du Marais,4.6,€,Creperies,56 rue des Rosiers 75004 Paris France,48.85789,2.35797
-Fosca,4.3,N/A,Italian,19 boulevard Diderot 75012 Paris France,48.84586,2.37168
-Grand Cœur,4.3,€€€,French,41 rue du Temple 75004 Paris France,48.85956,2.35397
+L'Aligot,4.9,,Auvergnat,73 avenue Niel 75017 Paris France,48.8823099,2.29584
+La Cave à Vin,4.4,€€,"French, Beer, Wine & Spirits",7 rue de l'Epée de Bois 75005 Paris France,48.84158,2.35095
+L'Auberge Café,4.1,€€,French,4 rue Bertin Poirée 75001 Paris France,48.85833,2.3446
+Le Petit Pontoise,4.5,€€€,Bistros,9 rue de Pontoise 75005 Paris France,48.8498845,2.3520959
+Le Petit Caillou,4.2,€€,Bistros,210 rue de Grenelle 75007 Paris France,48.85665,2.30323
+Café de Paris,3.9,€€,Brasseries,3 rue de l'Échelle 75001 Paris France,48.863662,2.33385
 Essaouira,4.5,€€,Moroccan,16 rue de Magdebourg 75116 Paris France,48.86445,2.28973
-Kodawari Ramen,4.3,€€,Ramen,29 rue Mazarine 75006 Paris France,48.85467,2.33806
-La Grande Cremerie,4.5,€€,"Wine Bars, French",8 rue Grégoire-de-Tours 75006 Paris France,48.853398816452,2.33779953372959
+Carpe Diem Café,4.2,€€,"French, Lounges, Cocktail Bars",21 rue des Halles 75001 Paris France,48.8605269,2.3459065
+Fosca,4.3,,Italian,19 boulevard Diderot 75012 Paris France,48.84586,2.37168
+La Droguerie du Marais,4.6,€,Creperies,56 rue des Rosiers 75004 Paris France,48.85789,2.35797
+Café New York,4.5,,French,6 avenue de New York 75016 Paris France,48.86418,2.29965
+Le 27 Madame,4.8,,French,27 rue Madame 75006 Paris France,48.84978,2.33187
+Grand Cœur,4.3,€€€,French,41 rue du Temple 75004 Paris France,48.85956,2.35397
 Le Train Bleu,3.7,€€€,French,Place Louis Armand 1er étage 75012 Paris France,48.844901,2.373278
+La Grande Cremerie,4.5,€€,"Wine Bars, French",8 rue Grégoire-de-Tours 75006 Paris France,48.853398816452,2.33779953372959
 Beefbar,3.9,€€€€,Steakhouses,5 rue Marbeuf 75008 Paris France,48.86749,2.30209
+Kodawari Ramen,4.3,€€,Ramen,29 rue Mazarine 75006 Paris France,48.85467,2.33806
 Shakespeare and Company,4.5,€€,"Bookstores, Cafes",37 rue de la Bûcherie 75005 Paris France,48.852658704771,2.3469621526521
 Chez Julien,4.2,€€,Bistros,2 rue Lepic 75018 Paris France,48.8840714,2.3331101
-Le Sirocco,4.3,€€,Moroccan,8 bis rue Gobelins 75013 Paris France,48.83588,2.35193
-Le Jules Verne,4.3,€€€€,French,Avenue Gustave Eiffel Deuxième étage 75007 Paris France,48.8583600000432,2.29599999988013
 Rumeurs,5.0,€€,"Wine Bars, French",34 rue des Ecoles 75005 Paris France,48.8491211,2.3470199
+Le Jules Verne,4.3,€€€€,French,Avenue Gustave Eiffel Deuxième étage 75007 Paris France,48.8583600000432,2.29599999988013
 Dong Phat,4.4,€€,Vietnamese,10 rue Malar 75007 Paris France,48.86052,2.3057
-La Rotonde,4.0,€€€,Brasseries,105 boulevard du Montparnasse 75006 Paris France,48.8423557905769,2.32917424911591
-Café Saint-Régis,4.1,€€,"French, Breakfast & Brunch",6 rue Jean du Bellay 75004 Paris France,48.853392,2.353736
+Le Brun,4.8,,French,95 rue Saint Honoré 75001 Paris France,48.86128,2.3432
 D'Chez Eux,4.4,€€€€,French,2 ave de Lowendal 75007 Paris France,48.85309,2.3091
-La Piazzetta,4.9,N/A,"Italian, Breakfast & Brunch",1 rue Bréa 75004 Paris France,48.843792,2.3305
-Café Lai Tcha,4.7,N/A,Pan Asian,7 rue du Jour 75001 Paris France,48.863565,2.344205
+Le Sirocco,4.3,€€,Moroccan,8 bis rue Gobelins 75013 Paris France,48.83588,2.35193
+La Rotonde,4.0,€€€,Brasseries,105 boulevard du Montparnasse 75006 Paris France,48.8423557905769,2.32917424911591
+Boulettes,4.6,€€,French,179 rue Saint-Denis 75002 Paris France,48.86557,2.35045
+Chez Savy,4.3,€€€,"French, Brasseries",23 rue Bayard 75008 Paris France,48.8670726,2.3077693
+Café Lai Tcha,4.7,,Pan Asian,7 rue du Jour 75001 Paris France,48.863565,2.344205
 Juvéniles,4.2,€€€€,"French, Wine Bars",47 rue de Richelieu 75001 Paris France,48.86624,2.33717
-Strada Café,4.4,€,"Coffee & Tea, Breakfast & Brunch",94 rue du Temple 75003 Paris France,48.863188,2.357273
+Café Saint-Régis,4.1,€€,"French, Breakfast & Brunch",6 rue Jean du Bellay 75004 Paris France,48.853392,2.353736
 Le Bouchon et l'Assiette,4.5,€€€,French,127 Rue Cardinet 75017 Paris France,48.88632,2.31264
-Le Colvert,4.7,N/A,French,54 rue Saint-André des Arts 75006 Paris France,48.85357,2.3401146
+Le Colvert,4.7,,French,54 rue Saint-André des Arts 75006 Paris France,48.85357,2.3401146
+Le Pantruche,4.4,€€€,French,3 rue Victor Massé 75009 Paris France,48.88046,2.3402
+Strada Café,4.4,€,"Coffee & Tea, Breakfast & Brunch",94 rue du Temple 75003 Paris France,48.863188,2.357273
 Au Pied de Cochon,3.3,€€€,"Seafood, Brasseries",6 rue Coquillière 75001 Paris France,48.863719,2.343711
 Café Marguerite,4.4,€€,Brasseries,28 rue des Martyrs 75009 Paris France,48.8785136901908,2.33986740145586
 Bar Italia Brasserie,4.9,€€€,Italian,22 rue Moncey 75009 Paris France,48.879965,2.329399
-Le Pantruche,4.4,€€€,French,3 rue Victor Massé 75009 Paris France,48.88046,2.3402
-Chez Savy,4.3,€€€,"French, Brasseries",23 rue Bayard 75008 Paris France,48.8670726,2.3077693
 Brasserie de la Bourse,4.4,€€,"French, Brasseries",27 Rue Jean Jacques Rousseau 75001 Paris France,48.86289,2.34125
 Café Varenne,4.4,€€,"French, Bars",36 rue de Varenne 75007 Paris France,48.85413,2.32354
-Rosie,4.3,N/A,Brasseries,53 rue du Faubourg Saint-Antoine 75011 Paris France,48.85219,2.37304
+Rosie,4.3,,Brasseries,53 rue du Faubourg Saint-Antoine 75011 Paris France,48.85219,2.37304
 La Maison de la Truffe,4.2,€€€€,French,19 place de la Madeleine 75008 Paris France,48.87074,2.3239899
-Café Jamin,5.0,N/A,French,32 rue de Longchamp 75016 Paris France,48.86508,2.28992
-Fajitas,4.2,€€,Mexican,15 rue Dauphine 75006 Paris France,48.8555801,2.3400906
+Café Jamin,5.0,,French,32 rue de Longchamp 75016 Paris France,48.86508,2.28992
+La Piazzetta,4.9,,"Italian, Breakfast & Brunch",1 rue Bréa 75004 Paris France,48.843792,2.3305
+Café Pola,4.8,,Bistros,77 boulevard Beaumarchais 75003 Paris France,48.85842,2.3676
 Le 52,4.5,€€€,French,52 rue du Faubourg Saint-Denis 75010 Paris France,48.87208,2.35405
-Brasserie du Quai,3.8,N/A,"Cafes, Brasseries, Pizza",2 quai de la Mégisserie 75001 Paris France,48.8576368617784,2.34592984887352
-Rivié,4.3,N/A,French,32 rue du Sentier 75002 Paris France,48.870197,2.346449
-Le Poulailler,4.1,N/A,"French, Wine Bars",60 rue Saint-Sabin 75011 Paris France,48.859174,2.368921
+Brasserie du Quai,3.8,,"Cafes, Brasseries, Pizza",2 quai de la Mégisserie 75001 Paris France,48.8576368617784,2.34592984887352
+Rivié,4.3,,French,32 rue du Sentier 75002 Paris France,48.870197,2.346449
+Le Poulailler,4.1,,"French, Wine Bars",60 rue Saint-Sabin 75011 Paris France,48.859174,2.368921
 Le Choupinet,4.0,€€€,"Brasseries, French, Cafes",58 boulevard Saint-Michel 75006 Paris France,48.8477332,2.340714
-Café Louise,4.2,€€,"Tea Rooms, Brasseries",8 rue Croix des Petits Champs 75001 Paris France,48.86267,2.33941
 La Famiglia,4.5,€€,"Pizza, Italian",37 rue Berger 75001 Paris France,48.8618507,2.34358
+Fajitas,4.2,€€,Mexican,15 rue Dauphine 75006 Paris France,48.8555801,2.3400906
 Septime,4.3,€€€€,Modern European,80 rue de Charonne 75011 Paris France,48.85355,2.380665
 Le Temps des Cerises,4.4,€€€,"French, Bistros, Cafes",31 rue de la Cerisaie 75004 Paris France,48.852569,2.364184
 Fric-Frac,4.4,€€,"French, Sandwiches",79 quai de Valmy 75010 Paris France,48.872441,2.364006
-Kodawari Ramen,4.2,N/A,Ramen,12 rue de Richelieu 75001 Paris France,48.864387,2.3362552
-Le Porte Pot,4.3,€€,"Wine Bars, Bistros",14 rue Boutebrie 75005 Paris France,48.85134,2.34452
 Caves Legrand,4.4,€€€,"Beer, Wine & Spirits, Wine Tasting Room, Tapas/Small Plates",1 rue de la Banque 75002 Paris France,48.8662599,2.33993
-Girafe,3.3,€€€€,"French, Seafood",1 place du Trocadéro Palais de Chaillot 75016 Paris France,48.862584,2.2885815
+Le Porte Pot,4.3,€€,"Wine Bars, Bistros",14 rue Boutebrie 75005 Paris France,48.85134,2.34452
 Loup,3.9,€€€,"French, Breakfast & Brunch",44 rue du Louvre 75001 Paris France,48.863959,2.342631
-La Grange aux Canards,4.4,N/A,French,23 rue Frédéric Sauton 75005 Paris France,48.85058,2.34901
-Chez Paul,5.0,N/A,Bistros,7 rue des Déchargeurs 75001 Paris France,48.859862,2.3461059
+La Poule au Pot,4.2,€€€,French,9 rue Vauvilliers 75001 Paris France,48.861797,2.343306
+Bouillon Pigalle,3.6,€€,French,22 boulevard Clichy 75018 Paris France,48.88258,2.33744
+Nove,4.6,€€,Italian,9 rue de Charonne 75011 Paris France,48.852512,2.374132
+La Grange aux Canards,4.4,,French,23 rue Frédéric Sauton 75005 Paris France,48.85058,2.34901
+Janine loves Sunday,4.5,€€,"Brasseries, Vegan",49 rue Montmartre 75002 Paris France,48.865794,2.344502
