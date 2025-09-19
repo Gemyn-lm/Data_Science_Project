@@ -2,7 +2,7 @@ import requests
 import time
 import pandas as pd
 
-API_KEY = "RGAPI-7c165fce-adea-448b-8577-9d6b8ede81f1"
+API_KEY = "Key"
 REGION = "eu"
 HEADERS = {"X-Riot-Token": API_KEY}
 CURRENT_ACT_ID = "0c9a4b79-46a0-4a2a-beb0-5b5690d9b742"
