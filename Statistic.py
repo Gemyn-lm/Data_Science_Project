@@ -38,13 +38,13 @@ def get_best_agents(csv_path: str) -> pa.DataFrame:
     )
     
     # --- 4. Sauvegarder en .txt ---
-    with open("best_agents.txt", "w", encoding="utf-8") as f:
-        for _, row in best_agents.iterrows():
-            f.write(
-                f"Role: {row['Role']}, Map: {row['Map']}, Elo: {row['Elo']}, "
-                f"Agent: {row['Name']}, Win%: {row['Win %']}, "
-                f"Pick%: {row['Pick %']}, Score: {row['Score']:.2f}\n"
-            )
+    # with open("best_agents.txt", "w", encoding="utf-8") as f:
+    #     for _, row in best_agents.iterrows():
+    #         f.write(
+    #             f"Role: {row['Role']}, Map: {row['Map']}, Elo: {row['Elo']}, "
+    #             f"Agent: {row['Name']}, Win%: {row['Win %']}, "
+    #             f"Pick%: {row['Pick %']}, Score: {row['Score']:.2f}\n"
+    #         )
 
     print("Résultats sauvegardés dans best_agents.txt ✅")
     return best_agents
