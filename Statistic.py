@@ -27,7 +27,7 @@ def get_best_agents(csv_path: str) -> pa.DataFrame:
     
     # --- 2. Calcul d’un score combiné ---
     # Exemple : pondérer winrate et pickrate (tu peux ajuster les poids)
-    df["Score"] = df["Win %"] * 0.7 + df["Pick %"] * 0.3
+    df["Score"] = df["Win %"]
     
     # --- 3. Trouver le meilleur agent par Role + Map + Elo ---
     best_agents = (
